@@ -1,0 +1,15 @@
+---
+title: 'Overview -- Concepts of Object-Oriented Programming 2018'
+#author: Mickey Vänskä
+output: 000_index.pdf
+papersize: a4
+documentclass: article
+classoption: twopage
+fontsize: 11pt
+margin-left: 2cm
+margin-right: 2cm
+margin-top: 2cm
+margin-bottom: 2cm
+numbersections: true
+toc: true
+---
